@@ -15,14 +15,13 @@ pip3 install --upgrade --force pip
 <p>then simply install YOLO by:</p>
 
 ```
-pip3 install --upgrade --force pip
+pip install ultralytics
 ```
 
 <p>after you install, run it with a test code, if it doesn't work, then there might be some additional pakages that you need:</p>
 
 
 ```
-pip install ultralytics
 
 pip install --upgrade importlib_metadata
 
@@ -37,4 +36,5 @@ pip install --upgrade setuptools
 
 
 ## For ORB SLAM3:
-<p></p>
+
+<p>Install ORB SLAM3 at <a href="https://github.com/UZ-SLAMLab/ORB_SLAM3">https://github.com/UZ-SLAMLab/ORB_SLAM3</a> </p>
