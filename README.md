@@ -22,7 +22,6 @@ pip install ultralytics
 
 
 ```
-
 pip install --upgrade importlib_metadata
 
 pip install --upgrade setuptools
